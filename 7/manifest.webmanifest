@@ -1,0 +1,12 @@
+{
+  "name": "Bridgette's Bridges",
+  "short_name": "Bridgette's Bridges",
+  "id": "com.example.gamename",
+  "description": "Unlableled Fraction Rods Gamified",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}

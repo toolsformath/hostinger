@@ -1,0 +1,12 @@
+{
+  "name": "Place Value Models Decimals",
+  "short_name": "Place Value Models Decimals",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
