@@ -1,0 +1,12 @@
+{
+  "name": "Ten Frame Flash",
+  "short_name": "Ten Frame Flash",
+  "id": "com.example.gamename",
+  "description": "Quick images using ten frames",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
