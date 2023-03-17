@@ -1,626 +1,125 @@
 gdjs.Game_32ENDINGCode = {};
 gdjs.Game_32ENDINGCode.GDtweObjects1= [];
 gdjs.Game_32ENDINGCode.GDtweObjects2= [];
-gdjs.Game_32ENDINGCode.GDtweObjects3= [];
 gdjs.Game_32ENDINGCode.GDtenObjects1= [];
 gdjs.Game_32ENDINGCode.GDtenObjects2= [];
-gdjs.Game_32ENDINGCode.GDtenObjects3= [];
 gdjs.Game_32ENDINGCode.GDninObjects1= [];
 gdjs.Game_32ENDINGCode.GDninObjects2= [];
-gdjs.Game_32ENDINGCode.GDninObjects3= [];
 gdjs.Game_32ENDINGCode.GDsevObjects1= [];
 gdjs.Game_32ENDINGCode.GDsevObjects2= [];
-gdjs.Game_32ENDINGCode.GDsevObjects3= [];
 gdjs.Game_32ENDINGCode.GDsixObjects1= [];
 gdjs.Game_32ENDINGCode.GDsixObjects2= [];
-gdjs.Game_32ENDINGCode.GDsixObjects3= [];
 gdjs.Game_32ENDINGCode.GDfivObjects1= [];
 gdjs.Game_32ENDINGCode.GDfivObjects2= [];
-gdjs.Game_32ENDINGCode.GDfivObjects3= [];
 gdjs.Game_32ENDINGCode.GDfouObjects1= [];
 gdjs.Game_32ENDINGCode.GDfouObjects2= [];
-gdjs.Game_32ENDINGCode.GDfouObjects3= [];
 gdjs.Game_32ENDINGCode.GDthrObjects1= [];
 gdjs.Game_32ENDINGCode.GDthrObjects2= [];
-gdjs.Game_32ENDINGCode.GDthrObjects3= [];
 gdjs.Game_32ENDINGCode.GDtwoObjects1= [];
 gdjs.Game_32ENDINGCode.GDtwoObjects2= [];
-gdjs.Game_32ENDINGCode.GDtwoObjects3= [];
 gdjs.Game_32ENDINGCode.GDoneObjects1= [];
 gdjs.Game_32ENDINGCode.GDoneObjects2= [];
-gdjs.Game_32ENDINGCode.GDoneObjects3= [];
 gdjs.Game_32ENDINGCode.GDeigObjects1= [];
 gdjs.Game_32ENDINGCode.GDeigObjects2= [];
-gdjs.Game_32ENDINGCode.GDeigObjects3= [];
 gdjs.Game_32ENDINGCode.GDGridButtonObjects1= [];
 gdjs.Game_32ENDINGCode.GDGridButtonObjects2= [];
-gdjs.Game_32ENDINGCode.GDGridButtonObjects3= [];
 gdjs.Game_32ENDINGCode.GDGridObjects1= [];
 gdjs.Game_32ENDINGCode.GDGridObjects2= [];
-gdjs.Game_32ENDINGCode.GDGridObjects3= [];
 gdjs.Game_32ENDINGCode.GDBObjects1= [];
 gdjs.Game_32ENDINGCode.GDBObjects2= [];
-gdjs.Game_32ENDINGCode.GDBObjects3= [];
 gdjs.Game_32ENDINGCode.GDDObjects1= [];
 gdjs.Game_32ENDINGCode.GDDObjects2= [];
-gdjs.Game_32ENDINGCode.GDDObjects3= [];
 gdjs.Game_32ENDINGCode.GDAObjects1= [];
 gdjs.Game_32ENDINGCode.GDAObjects2= [];
-gdjs.Game_32ENDINGCode.GDAObjects3= [];
 gdjs.Game_32ENDINGCode.GDEObjects1= [];
 gdjs.Game_32ENDINGCode.GDEObjects2= [];
-gdjs.Game_32ENDINGCode.GDEObjects3= [];
 gdjs.Game_32ENDINGCode.GDCObjects1= [];
 gdjs.Game_32ENDINGCode.GDCObjects2= [];
-gdjs.Game_32ENDINGCode.GDCObjects3= [];
 gdjs.Game_32ENDINGCode.GDlineObjects1= [];
 gdjs.Game_32ENDINGCode.GDlineObjects2= [];
-gdjs.Game_32ENDINGCode.GDlineObjects3= [];
 gdjs.Game_32ENDINGCode.GDPlatform2Objects1= [];
 gdjs.Game_32ENDINGCode.GDPlatform2Objects2= [];
-gdjs.Game_32ENDINGCode.GDPlatform2Objects3= [];
 gdjs.Game_32ENDINGCode.GDCornerPlatformObjects1= [];
 gdjs.Game_32ENDINGCode.GDCornerPlatformObjects2= [];
-gdjs.Game_32ENDINGCode.GDCornerPlatformObjects3= [];
 gdjs.Game_32ENDINGCode.GDGuardObjects1= [];
 gdjs.Game_32ENDINGCode.GDGuardObjects2= [];
-gdjs.Game_32ENDINGCode.GDGuardObjects3= [];
 gdjs.Game_32ENDINGCode.GDTeamScoreObjects1= [];
 gdjs.Game_32ENDINGCode.GDTeamScoreObjects2= [];
-gdjs.Game_32ENDINGCode.GDTeamScoreObjects3= [];
 gdjs.Game_32ENDINGCode.GDTeamScoreLabelObjects1= [];
 gdjs.Game_32ENDINGCode.GDTeamScoreLabelObjects2= [];
-gdjs.Game_32ENDINGCode.GDTeamScoreLabelObjects3= [];
 gdjs.Game_32ENDINGCode.GDruleObjects1= [];
 gdjs.Game_32ENDINGCode.GDruleObjects2= [];
-gdjs.Game_32ENDINGCode.GDruleObjects3= [];
 gdjs.Game_32ENDINGCode.GDrule2Objects1= [];
 gdjs.Game_32ENDINGCode.GDrule2Objects2= [];
-gdjs.Game_32ENDINGCode.GDrule2Objects3= [];
 gdjs.Game_32ENDINGCode.GDskipObjects1= [];
 gdjs.Game_32ENDINGCode.GDskipObjects2= [];
-gdjs.Game_32ENDINGCode.GDskipObjects3= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree2Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree2Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree2Objects3= [];
-gdjs.Game_32ENDINGCode.GDGreenLeavesObjects1= [];
-gdjs.Game_32ENDINGCode.GDGreenLeavesObjects2= [];
-gdjs.Game_32ENDINGCode.GDGreenLeavesObjects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeLeavesObjects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeLeavesObjects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeLeavesObjects3= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree3Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree3Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree3Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree4Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree4Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree4Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree1Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree1Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree1Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree1Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree1Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree1Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree5Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree5Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree5Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree2Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree2Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree2Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree6Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree6Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigOrangeTree6Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree4Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree4Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree4Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree3Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree3Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree3Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree8Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree8Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree8Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree7Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree7Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree7Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree6Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree6Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree6Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow1Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow1Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow1Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTree5Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTree5Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTree5Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow2Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow2Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow2Objects3= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow3Objects1= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow3Objects2= [];
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow3Objects3= [];
-gdjs.Game_32ENDINGCode.GDBlueFlowerObjects1= [];
-gdjs.Game_32ENDINGCode.GDBlueFlowerObjects2= [];
-gdjs.Game_32ENDINGCode.GDBlueFlowerObjects3= [];
-gdjs.Game_32ENDINGCode.GDBlueSmallPlantObjects1= [];
-gdjs.Game_32ENDINGCode.GDBlueSmallPlantObjects2= [];
-gdjs.Game_32ENDINGCode.GDBlueSmallPlantObjects3= [];
-gdjs.Game_32ENDINGCode.GDBush1Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush1Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush1Objects3= [];
-gdjs.Game_32ENDINGCode.GDBush3Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush3Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush3Objects3= [];
-gdjs.Game_32ENDINGCode.GDBush2Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush2Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush2Objects3= [];
-gdjs.Game_32ENDINGCode.GDPurpleSmallPlantObjects1= [];
-gdjs.Game_32ENDINGCode.GDPurpleSmallPlantObjects2= [];
-gdjs.Game_32ENDINGCode.GDPurpleSmallPlantObjects3= [];
-gdjs.Game_32ENDINGCode.GDBush4Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush4Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush4Objects3= [];
-gdjs.Game_32ENDINGCode.GDRedFlowerObjects1= [];
-gdjs.Game_32ENDINGCode.GDRedFlowerObjects2= [];
-gdjs.Game_32ENDINGCode.GDRedFlowerObjects3= [];
-gdjs.Game_32ENDINGCode.GDRock3Objects1= [];
-gdjs.Game_32ENDINGCode.GDRock3Objects2= [];
-gdjs.Game_32ENDINGCode.GDRock3Objects3= [];
-gdjs.Game_32ENDINGCode.GDRock1Objects1= [];
-gdjs.Game_32ENDINGCode.GDRock1Objects2= [];
-gdjs.Game_32ENDINGCode.GDRock1Objects3= [];
-gdjs.Game_32ENDINGCode.GDRock2Objects1= [];
-gdjs.Game_32ENDINGCode.GDRock2Objects2= [];
-gdjs.Game_32ENDINGCode.GDRock2Objects3= [];
-gdjs.Game_32ENDINGCode.GDRock4Objects1= [];
-gdjs.Game_32ENDINGCode.GDRock4Objects2= [];
-gdjs.Game_32ENDINGCode.GDRock4Objects3= [];
-gdjs.Game_32ENDINGCode.GDRock5Objects1= [];
-gdjs.Game_32ENDINGCode.GDRock5Objects2= [];
-gdjs.Game_32ENDINGCode.GDRock5Objects3= [];
-gdjs.Game_32ENDINGCode.GDRock6Objects1= [];
-gdjs.Game_32ENDINGCode.GDRock6Objects2= [];
-gdjs.Game_32ENDINGCode.GDRock6Objects3= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrass2Objects1= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrass2Objects2= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrass2Objects3= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrass3Objects1= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrass3Objects2= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrass3Objects3= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrassObjects1= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrassObjects2= [];
-gdjs.Game_32ENDINGCode.GDRockWithGrassObjects3= [];
-gdjs.Game_32ENDINGCode.GDSmallGrassObjects1= [];
-gdjs.Game_32ENDINGCode.GDSmallGrassObjects2= [];
-gdjs.Game_32ENDINGCode.GDSmallGrassObjects3= [];
-gdjs.Game_32ENDINGCode.GDTrunk2Objects1= [];
-gdjs.Game_32ENDINGCode.GDTrunk2Objects2= [];
-gdjs.Game_32ENDINGCode.GDTrunk2Objects3= [];
-gdjs.Game_32ENDINGCode.GDSmallPlant1Objects1= [];
-gdjs.Game_32ENDINGCode.GDSmallPlant1Objects2= [];
-gdjs.Game_32ENDINGCode.GDSmallPlant1Objects3= [];
-gdjs.Game_32ENDINGCode.GDTinyGrassObjects1= [];
-gdjs.Game_32ENDINGCode.GDTinyGrassObjects2= [];
-gdjs.Game_32ENDINGCode.GDTinyGrassObjects3= [];
-gdjs.Game_32ENDINGCode.GDSmallPlant2Objects1= [];
-gdjs.Game_32ENDINGCode.GDSmallPlant2Objects2= [];
-gdjs.Game_32ENDINGCode.GDSmallPlant2Objects3= [];
-gdjs.Game_32ENDINGCode.GDTrunk1Objects1= [];
-gdjs.Game_32ENDINGCode.GDTrunk1Objects2= [];
-gdjs.Game_32ENDINGCode.GDTrunk1Objects3= [];
-gdjs.Game_32ENDINGCode.GDTrunk3Objects1= [];
-gdjs.Game_32ENDINGCode.GDTrunk3Objects2= [];
-gdjs.Game_32ENDINGCode.GDTrunk3Objects3= [];
-gdjs.Game_32ENDINGCode.GDTrunk4Objects1= [];
-gdjs.Game_32ENDINGCode.GDTrunk4Objects2= [];
-gdjs.Game_32ENDINGCode.GDTrunk4Objects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree2Objects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree2Objects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree2Objects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk2Objects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk2Objects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk2Objects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree1Objects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree1Objects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree1Objects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree3Objects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree3Objects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTree3Objects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk3Objects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk3Objects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk3Objects3= [];
-gdjs.Game_32ENDINGCode.GDFoliagePackObjects1= [];
-gdjs.Game_32ENDINGCode.GDFoliagePackObjects2= [];
-gdjs.Game_32ENDINGCode.GDFoliagePackObjects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk4Objects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk4Objects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunk4Objects3= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunkObjects1= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunkObjects2= [];
-gdjs.Game_32ENDINGCode.GDWhiteTrunkObjects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter1Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter1Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter1Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter3Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter3Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter3Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter2Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter2Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter2Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter12Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter12Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter12Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter10Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter10Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter10Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter5Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter5Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter5Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter4Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter4Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter4Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter8Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter8Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter8Objects3= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter7Objects1= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter7Objects2= [];
-gdjs.Game_32ENDINGCode.GDFemaleCharacter7Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter10Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter10Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter10Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter12Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter12Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter12Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter2Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter2Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter2Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter3Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter3Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter3Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter1Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter1Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter1Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter5Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter5Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter5Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter6Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter6Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter6Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter9Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter9Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter9Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter7Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter7Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter7Objects3= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter8Objects1= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter8Objects2= [];
-gdjs.Game_32ENDINGCode.GDMaleCharacter8Objects3= [];
-gdjs.Game_32ENDINGCode.GDDesertBackground2Objects1= [];
-gdjs.Game_32ENDINGCode.GDDesertBackground2Objects2= [];
-gdjs.Game_32ENDINGCode.GDDesertBackground2Objects3= [];
-gdjs.Game_32ENDINGCode.GDEmptyCloudBackgroundObjects1= [];
-gdjs.Game_32ENDINGCode.GDEmptyCloudBackgroundObjects2= [];
-gdjs.Game_32ENDINGCode.GDEmptyCloudBackgroundObjects3= [];
-gdjs.Game_32ENDINGCode.GDDesertBackgroundObjects1= [];
-gdjs.Game_32ENDINGCode.GDDesertBackgroundObjects2= [];
-gdjs.Game_32ENDINGCode.GDDesertBackgroundObjects3= [];
-gdjs.Game_32ENDINGCode.GDCastlesBackgroundObjects1= [];
-gdjs.Game_32ENDINGCode.GDCastlesBackgroundObjects2= [];
-gdjs.Game_32ENDINGCode.GDCastlesBackgroundObjects3= [];
-gdjs.Game_32ENDINGCode.GDFallTreesBackgroundObjects1= [];
-gdjs.Game_32ENDINGCode.GDFallTreesBackgroundObjects2= [];
-gdjs.Game_32ENDINGCode.GDFallTreesBackgroundObjects3= [];
-gdjs.Game_32ENDINGCode.GDForestBackground2Objects1= [];
-gdjs.Game_32ENDINGCode.GDForestBackground2Objects2= [];
-gdjs.Game_32ENDINGCode.GDForestBackground2Objects3= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain2Objects1= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain2Objects2= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain2Objects3= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain1Objects1= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain1Objects2= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain1Objects3= [];
-gdjs.Game_32ENDINGCode.GDForestBackgroundObjects1= [];
-gdjs.Game_32ENDINGCode.GDForestBackgroundObjects2= [];
-gdjs.Game_32ENDINGCode.GDForestBackgroundObjects3= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain3Objects1= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain3Objects2= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountain3Objects3= [];
-gdjs.Game_32ENDINGCode.GDGrassAndTreeBackgroundObjects1= [];
-gdjs.Game_32ENDINGCode.GDGrassAndTreeBackgroundObjects2= [];
-gdjs.Game_32ENDINGCode.GDGrassAndTreeBackgroundObjects3= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountainsObjects1= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountainsObjects2= [];
-gdjs.Game_32ENDINGCode.GDBackgroundMountainsObjects3= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer1Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer1Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer1Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer3Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer3Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer3Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer2Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer2Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer2Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer4Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer4Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloudLayer4Objects3= [];
-gdjs.Game_32ENDINGCode.GDGroundLayer2Objects1= [];
-gdjs.Game_32ENDINGCode.GDGroundLayer2Objects2= [];
-gdjs.Game_32ENDINGCode.GDGroundLayer2Objects3= [];
-gdjs.Game_32ENDINGCode.GDGroundLayer1Objects1= [];
-gdjs.Game_32ENDINGCode.GDGroundLayer1Objects2= [];
-gdjs.Game_32ENDINGCode.GDGroundLayer1Objects3= [];
-gdjs.Game_32ENDINGCode.GDHillsObjects1= [];
-gdjs.Game_32ENDINGCode.GDHillsObjects2= [];
-gdjs.Game_32ENDINGCode.GDHillsObjects3= [];
-gdjs.Game_32ENDINGCode.GDLargeHillsObjects1= [];
-gdjs.Game_32ENDINGCode.GDLargeHillsObjects2= [];
-gdjs.Game_32ENDINGCode.GDLargeHillsObjects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush1Objects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush1Objects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush1Objects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush2Objects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush2Objects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush2Objects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush3Objects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush3Objects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush3Objects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush4Objects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush4Objects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeBush4Objects3= [];
-gdjs.Game_32ENDINGCode.GDFrozenPineTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDFrozenPineTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDFrozenPineTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeSmallCastleObjects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeSmallCastleObjects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeSmallCastleObjects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeTowerObjects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeTowerObjects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeTowerObjects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeSmallTowerObjects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeSmallTowerObjects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeSmallTowerObjects3= [];
-gdjs.Game_32ENDINGCode.GDDeadTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDDeadTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDDeadTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDFrozenLongTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDFrozenLongTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDFrozenLongTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDFrozenTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDFrozenTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDFrozenTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDFullMoonObjects1= [];
-gdjs.Game_32ENDINGCode.GDFullMoonObjects2= [];
-gdjs.Game_32ENDINGCode.GDFullMoonObjects3= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree2Objects1= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree2Objects2= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree2Objects3= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree1Objects1= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree1Objects2= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree1Objects3= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree3Objects1= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree3Objects2= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree3Objects3= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree4Objects1= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree4Objects2= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree4Objects3= [];
-gdjs.Game_32ENDINGCode.GDLongOrangeTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDLongOrangeTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDLongOrangeTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree5Objects1= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree5Objects2= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree5Objects3= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree6Objects1= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree6Objects2= [];
-gdjs.Game_32ENDINGCode.GDGreenSmallTree6Objects3= [];
-gdjs.Game_32ENDINGCode.GDIronFenceObjects1= [];
-gdjs.Game_32ENDINGCode.GDIronFenceObjects2= [];
-gdjs.Game_32ENDINGCode.GDIronFenceObjects3= [];
-gdjs.Game_32ENDINGCode.GDLongSnowTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDLongSnowTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDLongSnowTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDLongTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDLongTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDLongTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDMayanPyramidObjects1= [];
-gdjs.Game_32ENDINGCode.GDMayanPyramidObjects2= [];
-gdjs.Game_32ENDINGCode.GDMayanPyramidObjects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush1Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush1Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush1Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush2Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush2Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush2Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush3Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush3Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush3Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush4Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush4Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeBush4Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangePineTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDOrangePineTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDOrangePineTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree1Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree1Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree1Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree2Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree2Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree2Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree3Objects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree3Objects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree3Objects3= [];
-gdjs.Game_32ENDINGCode.GDOrangeTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDOrangeTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDOrangeTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDPalmTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDPalmTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDPalmTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDPineTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDPineTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDPineTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDSnowTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDSnowTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDSnowTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDSmallCastleObjects1= [];
-gdjs.Game_32ENDINGCode.GDSmallCastleObjects2= [];
-gdjs.Game_32ENDINGCode.GDSmallCastleObjects3= [];
-gdjs.Game_32ENDINGCode.GDSunObjects1= [];
-gdjs.Game_32ENDINGCode.GDSunObjects2= [];
-gdjs.Game_32ENDINGCode.GDSunObjects3= [];
-gdjs.Game_32ENDINGCode.GDSmallTowerObjects1= [];
-gdjs.Game_32ENDINGCode.GDSmallTowerObjects2= [];
-gdjs.Game_32ENDINGCode.GDSmallTowerObjects3= [];
-gdjs.Game_32ENDINGCode.GDTowerObjects1= [];
-gdjs.Game_32ENDINGCode.GDTowerObjects2= [];
-gdjs.Game_32ENDINGCode.GDTowerObjects3= [];
-gdjs.Game_32ENDINGCode.GDSnowPineTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDSnowPineTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDSnowPineTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDBush12Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush12Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush12Objects3= [];
-gdjs.Game_32ENDINGCode.GDTreeObjects1= [];
-gdjs.Game_32ENDINGCode.GDTreeObjects2= [];
-gdjs.Game_32ENDINGCode.GDTreeObjects3= [];
-gdjs.Game_32ENDINGCode.GDBush32Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush32Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush32Objects3= [];
-gdjs.Game_32ENDINGCode.GDBush42Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush42Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush42Objects3= [];
-gdjs.Game_32ENDINGCode.GDBush22Objects1= [];
-gdjs.Game_32ENDINGCode.GDBush22Objects2= [];
-gdjs.Game_32ENDINGCode.GDBush22Objects3= [];
-gdjs.Game_32ENDINGCode.GDCactus1Objects1= [];
-gdjs.Game_32ENDINGCode.GDCactus1Objects2= [];
-gdjs.Game_32ENDINGCode.GDCactus1Objects3= [];
-gdjs.Game_32ENDINGCode.GDCactus2Objects1= [];
-gdjs.Game_32ENDINGCode.GDCactus2Objects2= [];
-gdjs.Game_32ENDINGCode.GDCactus2Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud4Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud4Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud4Objects3= [];
-gdjs.Game_32ENDINGCode.GDCactus3Objects1= [];
-gdjs.Game_32ENDINGCode.GDCactus3Objects2= [];
-gdjs.Game_32ENDINGCode.GDCactus3Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud1Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud1Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud1Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud2Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud2Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud2Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud3Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud3Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud3Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud5Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud5Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud5Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud6Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud6Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud6Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud7Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud7Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud7Objects3= [];
-gdjs.Game_32ENDINGCode.GDCloud8Objects1= [];
-gdjs.Game_32ENDINGCode.GDCloud8Objects2= [];
-gdjs.Game_32ENDINGCode.GDCloud8Objects3= [];
-gdjs.Game_32ENDINGCode.GDFenceObjects1= [];
-gdjs.Game_32ENDINGCode.GDFenceObjects2= [];
-gdjs.Game_32ENDINGCode.GDFenceObjects3= [];
-gdjs.Game_32ENDINGCode.GDHouse1Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouse1Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouse1Objects3= [];
-gdjs.Game_32ENDINGCode.GDHouseAlt1Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouseAlt1Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouseAlt1Objects3= [];
-gdjs.Game_32ENDINGCode.GDHouseSmall1Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouseSmall1Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouseSmall1Objects3= [];
-gdjs.Game_32ENDINGCode.GDHouse2Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouse2Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouse2Objects3= [];
-gdjs.Game_32ENDINGCode.GDPyramidObjects1= [];
-gdjs.Game_32ENDINGCode.GDPyramidObjects2= [];
-gdjs.Game_32ENDINGCode.GDPyramidObjects3= [];
-gdjs.Game_32ENDINGCode.GDHouseAlt2Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouseAlt2Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouseAlt2Objects3= [];
-gdjs.Game_32ENDINGCode.GDHouseSmall2Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouseSmall2Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouseSmall2Objects3= [];
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt2Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt2Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt2Objects3= [];
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt1Objects1= [];
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt1Objects2= [];
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt1Objects3= [];
-gdjs.Game_32ENDINGCode.GDMoonObjects1= [];
-gdjs.Game_32ENDINGCode.GDMoonObjects2= [];
-gdjs.Game_32ENDINGCode.GDMoonObjects3= [];
-gdjs.Game_32ENDINGCode.GDAlternativeCastleWallObjects1= [];
-gdjs.Game_32ENDINGCode.GDAlternativeCastleWallObjects2= [];
-gdjs.Game_32ENDINGCode.GDAlternativeCastleWallObjects3= [];
-gdjs.Game_32ENDINGCode.GDCastleWallObjects1= [];
-gdjs.Game_32ENDINGCode.GDCastleWallObjects2= [];
-gdjs.Game_32ENDINGCode.GDCastleWallObjects3= [];
 gdjs.Game_32ENDINGCode.GDNewSpriteObjects1= [];
 gdjs.Game_32ENDINGCode.GDNewSpriteObjects2= [];
-gdjs.Game_32ENDINGCode.GDNewSpriteObjects3= [];
-gdjs.Game_32ENDINGCode.GDBridgetteObjects1= [];
-gdjs.Game_32ENDINGCode.GDBridgetteObjects2= [];
-gdjs.Game_32ENDINGCode.GDBridgetteObjects3= [];
-gdjs.Game_32ENDINGCode.GDbottomObjects1= [];
-gdjs.Game_32ENDINGCode.GDbottomObjects2= [];
-gdjs.Game_32ENDINGCode.GDbottomObjects3= [];
-gdjs.Game_32ENDINGCode.GDNewSprite2Objects1= [];
-gdjs.Game_32ENDINGCode.GDNewSprite2Objects2= [];
-gdjs.Game_32ENDINGCode.GDNewSprite2Objects3= [];
+gdjs.Game_32ENDINGCode.GDNewTextObjects1= [];
+gdjs.Game_32ENDINGCode.GDNewTextObjects2= [];
 gdjs.Game_32ENDINGCode.GDMagicLoopObjects1= [];
 gdjs.Game_32ENDINGCode.GDMagicLoopObjects2= [];
-gdjs.Game_32ENDINGCode.GDMagicLoopObjects3= [];
-gdjs.Game_32ENDINGCode.GDCloseButtonObjects1= [];
-gdjs.Game_32ENDINGCode.GDCloseButtonObjects2= [];
-gdjs.Game_32ENDINGCode.GDCloseButtonObjects3= [];
 
 gdjs.Game_32ENDINGCode.conditionTrue_0 = {val:false};
 gdjs.Game_32ENDINGCode.condition0IsTrue_0 = {val:false};
 gdjs.Game_32ENDINGCode.condition1IsTrue_0 = {val:false};
 gdjs.Game_32ENDINGCode.condition2IsTrue_0 = {val:false};
+gdjs.Game_32ENDINGCode.conditionTrue_1 = {val:false};
+gdjs.Game_32ENDINGCode.condition0IsTrue_1 = {val:false};
+gdjs.Game_32ENDINGCode.condition1IsTrue_1 = {val:false};
+gdjs.Game_32ENDINGCode.condition2IsTrue_1 = {val:false};
 
 
-gdjs.Game_32ENDINGCode.asyncCallback36754660 = function (runtimeScene, asyncObjectsList) {
-gdjs.copyArray(asyncObjectsList.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects3);
+gdjs.Game_32ENDINGCode.asyncCallback36339460 = function (runtimeScene, asyncObjectsList) {
+gdjs.copyArray(asyncObjectsList.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects2);
 
-{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects3.length ;i < len;++i) {
-    gdjs.Game_32ENDINGCode.GDMagicLoopObjects3[i].deleteFromScene(runtimeScene);
+{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects2.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects2[i].deleteFromScene(runtimeScene);
 }
 }}
-gdjs.Game_32ENDINGCode.eventsList0 = function(runtimeScene, asyncObjectsList) {
+gdjs.Game_32ENDINGCode.eventsList0 = function(runtimeScene) {
 
 {
 
 
 {
-const parentAsyncObjectsList = asyncObjectsList;
 {
-const asyncObjectsList = gdjs.LongLivedObjectsList.from(parentAsyncObjectsList);
-for (const obj of gdjs.Game_32ENDINGCode.GDMagicLoopObjects2) asyncObjectsList.addObject("MagicLoop", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.Game_32ENDINGCode.asyncCallback36754660(runtimeScene, asyncObjectsList)));
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+for (const obj of gdjs.Game_32ENDINGCode.GDMagicLoopObjects1) asyncObjectsList.addObject("MagicLoop", obj);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.Game_32ENDINGCode.asyncCallback36339460(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Game_32ENDINGCode.asyncCallback36754284 = function (runtimeScene, asyncObjectsList) {
-gdjs.copyArray(runtimeScene.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects2);
+};gdjs.Game_32ENDINGCode.asyncCallback10095892 = function (runtimeScene, asyncObjectsList) {
+gdjs.copyArray(runtimeScene.getObjects("A"), gdjs.Game_32ENDINGCode.GDAObjects2);
+gdjs.copyArray(runtimeScene.getObjects("B"), gdjs.Game_32ENDINGCode.GDBObjects2);
+gdjs.copyArray(runtimeScene.getObjects("C"), gdjs.Game_32ENDINGCode.GDCObjects2);
+gdjs.copyArray(runtimeScene.getObjects("D"), gdjs.Game_32ENDINGCode.GDDObjects2);
+gdjs.copyArray(runtimeScene.getObjects("E"), gdjs.Game_32ENDINGCode.GDEObjects2);
+gdjs.copyArray(asyncObjectsList.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects2);
+
 {for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects2.length ;i < len;++i) {
-    gdjs.Game_32ENDINGCode.GDMagicLoopObjects2[i].setColor("80;227;194");
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects2[i].deleteFromScene(runtimeScene);
 }
-}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects2.length ;i < len;++i) {
-    gdjs.Game_32ENDINGCode.GDMagicLoopObjects2[i].addForce(0, -(50), 1);
+}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDBObjects2.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDBObjects2[i].getBehavior("PlatformerObject").simulateRightKey();
 }
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDDObjects2.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDDObjects2[i].getBehavior("PlatformerObject").simulateRightKey();
 }
-{ //Subevents
-gdjs.Game_32ENDINGCode.eventsList0(runtimeScene, asyncObjectsList);} //End of subevents
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDAObjects2.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDAObjects2[i].getBehavior("PlatformerObject").simulateRightKey();
 }
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDEObjects2.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDEObjects2[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDCObjects2.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDCObjects2[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+}}
 gdjs.Game_32ENDINGCode.eventsList1 = function(runtimeScene) {
 
 {
@@ -629,31 +128,15 @@ gdjs.Game_32ENDINGCode.eventsList1 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.Game_32ENDINGCode.asyncCallback36754284(runtimeScene, asyncObjectsList)));
+for (const obj of gdjs.Game_32ENDINGCode.GDMagicLoopObjects1) asyncObjectsList.addObject("MagicLoop", obj);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.Game_32ENDINGCode.asyncCallback10095892(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Game_32ENDINGCode.mapOfGDgdjs_46Game_9532ENDINGCode_46GDCloseButtonObjects1Objects = Hashtable.newFrom({"CloseButton": gdjs.Game_32ENDINGCode.GDCloseButtonObjects1});
-gdjs.Game_32ENDINGCode.eventsList2 = function(runtimeScene) {
-
-{
-
-
-gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = false;
-{
-gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
-}if (gdjs.Game_32ENDINGCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("B"), gdjs.Game_32ENDINGCode.GDBObjects1);
-{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDBObjects1.length ;i < len;++i) {
-    gdjs.Game_32ENDINGCode.GDBObjects1[i].getBehavior("PlatformerObject").simulateControl("Jump");
-}
-}}
-
-}
-
+};gdjs.Game_32ENDINGCode.eventsList2 = function(runtimeScene) {
 
 {
 
@@ -662,8 +145,16 @@ gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = false;
 {
 gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.Game_32ENDINGCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("B"), gdjs.Game_32ENDINGCode.GDBObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects1);
 {gdjs.evtTools.sound.playSound(runtimeScene, "91f7d998879fc526c32be78528008258d08031716d6eedc9eb8a7cba7ec30aac_Fancy Family.aac", false, 100, 1);
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "timer");
+}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDBObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDBObjects1[i].getBehavior("PlatformerObject").simulateControl("Jump");
+}
+}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects1[i].hide();
+}
 }}
 
 }
@@ -673,13 +164,103 @@ gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.scene
 
 
 gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = false;
+gdjs.Game_32ENDINGCode.condition1IsTrue_0.val = false;
 {
-gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.input.anyKeyPressed(runtimeScene);
-}if (gdjs.Game_32ENDINGCode.condition0IsTrue_0.val) {
+gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "timer") > 1;
+}if ( gdjs.Game_32ENDINGCode.condition0IsTrue_0.val ) {
+{
+{gdjs.Game_32ENDINGCode.conditionTrue_1 = gdjs.Game_32ENDINGCode.condition1IsTrue_0;
+gdjs.Game_32ENDINGCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10104804);
+}
+}}
+if (gdjs.Game_32ENDINGCode.condition1IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects1);
+{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects1[i].hide(false);
+}
+}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects1[i].addForce(0, -(50), 1);
+}
+}
+{ //Subevents
+gdjs.Game_32ENDINGCode.eventsList0(runtimeScene);} //End of subevents
+}
 
+}
+
+
+{
+
+
+gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = false;
+gdjs.Game_32ENDINGCode.condition1IsTrue_0.val = false;
+{
+gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "timer") > 3;
+}if ( gdjs.Game_32ENDINGCode.condition0IsTrue_0.val ) {
+{
+{gdjs.Game_32ENDINGCode.conditionTrue_1 = gdjs.Game_32ENDINGCode.condition1IsTrue_0;
+gdjs.Game_32ENDINGCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10557156);
+}
+}}
+if (gdjs.Game_32ENDINGCode.condition1IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("MagicLoop"), gdjs.Game_32ENDINGCode.GDMagicLoopObjects1);
+{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects1[i].setColor("80;227;194");
+}
+}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDMagicLoopObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDMagicLoopObjects1[i].addForce(0, -(50), 1);
+}
+}
 { //Subevents
 gdjs.Game_32ENDINGCode.eventsList1(runtimeScene);} //End of subevents
 }
+
+}
+
+
+{
+
+
+gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = false;
+{
+gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "timer") > 4;
+}if (gdjs.Game_32ENDINGCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("A"), gdjs.Game_32ENDINGCode.GDAObjects1);
+gdjs.copyArray(runtimeScene.getObjects("B"), gdjs.Game_32ENDINGCode.GDBObjects1);
+gdjs.copyArray(runtimeScene.getObjects("C"), gdjs.Game_32ENDINGCode.GDCObjects1);
+gdjs.copyArray(runtimeScene.getObjects("D"), gdjs.Game_32ENDINGCode.GDDObjects1);
+gdjs.copyArray(runtimeScene.getObjects("E"), gdjs.Game_32ENDINGCode.GDEObjects1);
+{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDBObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDBObjects1[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDDObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDDObjects1[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDAObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDAObjects1[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDEObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDEObjects1[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDCObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDCObjects1[i].getBehavior("PlatformerObject").simulateRightKey();
+}
+}{for(var i = 0, len = gdjs.Game_32ENDINGCode.GDBObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDBObjects1[i].setAnimationName("Walking Right");
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDDObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDDObjects1[i].setAnimationName("Walking Right");
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDAObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDAObjects1[i].setAnimationName("Walking Right");
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDEObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDEObjects1[i].setAnimationName("Walking Right");
+}
+for(var i = 0, len = gdjs.Game_32ENDINGCode.GDCObjects1.length ;i < len;++i) {
+    gdjs.Game_32ENDINGCode.GDCObjects1[i].setAnimationName("Walking Right");
+}
+}}
 
 }
 
@@ -702,18 +283,12 @@ gdjs.copyArray(runtimeScene.getObjects("TeamScore"), gdjs.Game_32ENDINGCode.GDTe
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("CloseButton"), gdjs.Game_32ENDINGCode.GDCloseButtonObjects1);
 
 gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = false;
-gdjs.Game_32ENDINGCode.condition1IsTrue_0.val = false;
 {
-gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.Game_32ENDINGCode.mapOfGDgdjs_46Game_9532ENDINGCode_46GDCloseButtonObjects1Objects, runtimeScene, true, false);
-}if ( gdjs.Game_32ENDINGCode.condition0IsTrue_0.val ) {
-{
-gdjs.Game_32ENDINGCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
-}}
-if (gdjs.Game_32ENDINGCode.condition1IsTrue_0.val) {
-{gdjs.evtTools.runtimeScene.stopGame(runtimeScene);
+gdjs.Game_32ENDINGCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "timer") > 10;
+}if (gdjs.Game_32ENDINGCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Mat Only", false);
 }}
 
 }
@@ -726,583 +301,64 @@ runtimeScene.getOnceTriggers().startNewFrame();
 
 gdjs.Game_32ENDINGCode.GDtweObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDtweObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDtweObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDtenObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDtenObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDtenObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDninObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDninObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDninObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDsevObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDsevObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDsevObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDsixObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDsixObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDsixObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDfivObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDfivObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDfivObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDfouObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDfouObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDfouObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDthrObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDthrObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDthrObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDtwoObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDtwoObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDtwoObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDoneObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDoneObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDoneObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDeigObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDeigObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDeigObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDGridButtonObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDGridButtonObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGridButtonObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDGridObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDGridObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGridObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDBObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDBObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDDObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDDObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDDObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDAObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDAObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDEObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDEObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDEObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDCObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDCObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDlineObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDlineObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDlineObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDPlatform2Objects1.length = 0;
 gdjs.Game_32ENDINGCode.GDPlatform2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDPlatform2Objects3.length = 0;
 gdjs.Game_32ENDINGCode.GDCornerPlatformObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDCornerPlatformObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCornerPlatformObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDGuardObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDGuardObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGuardObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDTeamScoreObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDTeamScoreObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTeamScoreObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDTeamScoreLabelObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDTeamScoreLabelObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTeamScoreLabelObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDruleObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDruleObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDruleObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDrule2Objects1.length = 0;
 gdjs.Game_32ENDINGCode.GDrule2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDrule2Objects3.length = 0;
 gdjs.Game_32ENDINGCode.GDskipObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDskipObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDskipObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenLeavesObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenLeavesObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenLeavesObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeLeavesObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeLeavesObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeLeavesObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree6Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree6Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigOrangeTree6Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree8Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree8Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree8Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree7Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree7Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree7Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree6Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree6Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree6Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTree5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBigTreeWithSnow3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBlueFlowerObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBlueFlowerObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBlueFlowerObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBlueSmallPlantObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBlueSmallPlantObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBlueSmallPlantObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDPurpleSmallPlantObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDPurpleSmallPlantObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDPurpleSmallPlantObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRedFlowerObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRedFlowerObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRedFlowerObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRock3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRock3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRock3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRock1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRock1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRock1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRock2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRock2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRock2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRock4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRock4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRock4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRock5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRock5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRock5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRock6Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRock6Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRock6Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrass2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrass2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrass2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrass3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrass3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrass3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrassObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrassObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDRockWithGrassObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallGrassObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallGrassObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallGrassObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallPlant1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallPlant1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallPlant1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTinyGrassObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTinyGrassObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTinyGrassObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallPlant2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallPlant2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallPlant2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTrunk4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTree3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFoliagePackObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFoliagePackObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFoliagePackObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunk4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunkObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunkObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDWhiteTrunkObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter12Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter12Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter12Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter10Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter10Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter10Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter8Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter8Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter8Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter7Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter7Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFemaleCharacter7Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter10Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter10Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter10Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter12Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter12Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter12Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter6Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter6Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter6Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter9Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter9Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter9Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter7Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter7Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter7Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter8Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter8Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMaleCharacter8Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDDesertBackground2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDDesertBackground2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDDesertBackground2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDEmptyCloudBackgroundObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDEmptyCloudBackgroundObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDEmptyCloudBackgroundObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDDesertBackgroundObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDDesertBackgroundObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDDesertBackgroundObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCastlesBackgroundObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCastlesBackgroundObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCastlesBackgroundObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFallTreesBackgroundObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFallTreesBackgroundObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFallTreesBackgroundObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDForestBackground2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDForestBackground2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDForestBackground2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDForestBackgroundObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDForestBackgroundObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDForestBackgroundObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountain3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGrassAndTreeBackgroundObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGrassAndTreeBackgroundObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGrassAndTreeBackgroundObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountainsObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountainsObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBackgroundMountainsObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloudLayer4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGroundLayer2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGroundLayer2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGroundLayer2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGroundLayer1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGroundLayer1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGroundLayer1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHillsObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHillsObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHillsObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDLargeHillsObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDLargeHillsObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDLargeHillsObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeBush4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenPineTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenPineTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenPineTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeSmallCastleObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeSmallCastleObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeSmallCastleObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeTowerObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeTowerObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeTowerObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeSmallTowerObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeSmallTowerObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeSmallTowerObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDDeadTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDDeadTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDDeadTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenLongTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenLongTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenLongTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFrozenTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFullMoonObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFullMoonObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFullMoonObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDLongOrangeTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDLongOrangeTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDLongOrangeTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree6Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree6Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDGreenSmallTree6Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDIronFenceObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDIronFenceObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDIronFenceObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDLongSnowTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDLongSnowTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDLongSnowTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDLongTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDLongTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDLongTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMayanPyramidObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMayanPyramidObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMayanPyramidObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeBush4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangePineTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangePineTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangePineTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeSmallTree3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDOrangeTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDPalmTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDPalmTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDPalmTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDPineTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDPineTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDPineTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSnowTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSnowTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSnowTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallCastleObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallCastleObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallCastleObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSunObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSunObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSunObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallTowerObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallTowerObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSmallTowerObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTowerObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTowerObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTowerObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDSnowPineTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDSnowPineTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDSnowPineTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush12Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush12Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush12Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDTreeObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDTreeObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDTreeObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush32Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush32Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush32Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush42Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush42Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush42Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBush22Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBush22Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBush22Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud4Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud4Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud4Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCactus3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud3Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud3Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud3Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud5Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud5Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud5Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud6Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud6Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud6Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud7Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud7Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud7Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud8Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud8Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloud8Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDFenceObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDFenceObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDFenceObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouse1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouse1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouse1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseAlt1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseAlt1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseAlt1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmall1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmall1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmall1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouse2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouse2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouse2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDPyramidObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDPyramidObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDPyramidObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseAlt2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseAlt2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseAlt2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmall2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmall2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmall2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt2Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt1Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt1Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDHouseSmallAlt1Objects3.length = 0;
-gdjs.Game_32ENDINGCode.GDMoonObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDMoonObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMoonObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeCastleWallObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeCastleWallObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDAlternativeCastleWallObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCastleWallObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCastleWallObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCastleWallObjects3.length = 0;
 gdjs.Game_32ENDINGCode.GDNewSpriteObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDNewSpriteObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDNewSpriteObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDBridgetteObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDBridgetteObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDBridgetteObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDbottomObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDbottomObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDbottomObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDNewSprite2Objects1.length = 0;
-gdjs.Game_32ENDINGCode.GDNewSprite2Objects2.length = 0;
-gdjs.Game_32ENDINGCode.GDNewSprite2Objects3.length = 0;
+gdjs.Game_32ENDINGCode.GDNewTextObjects1.length = 0;
+gdjs.Game_32ENDINGCode.GDNewTextObjects2.length = 0;
 gdjs.Game_32ENDINGCode.GDMagicLoopObjects1.length = 0;
 gdjs.Game_32ENDINGCode.GDMagicLoopObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDMagicLoopObjects3.length = 0;
-gdjs.Game_32ENDINGCode.GDCloseButtonObjects1.length = 0;
-gdjs.Game_32ENDINGCode.GDCloseButtonObjects2.length = 0;
-gdjs.Game_32ENDINGCode.GDCloseButtonObjects3.length = 0;
 
 gdjs.Game_32ENDINGCode.eventsList2(runtimeScene);
 
